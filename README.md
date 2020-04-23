@@ -14,9 +14,9 @@ darknet.to
 
 onion.ly
 
-onion.lat [ http only ]
+onion.lat       [ supports http only ]
 
-onion.dog [ http only ]
+onion.dog       [ supports http only ]
 
 onion.rodeo
 
